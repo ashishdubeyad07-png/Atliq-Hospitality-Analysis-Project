@@ -21,6 +21,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 -Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 
+
+
 **Dashboard Mockup Provided**
 
 <img width="1280" height="800" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/d67a9ca2-2a81-4643-b6f4-5b3ece7aa499" />
@@ -31,9 +33,15 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <img width="1333" height="741" alt="Home Page" src="https://github.com/user-attachments/assets/826e5ceb-102f-4ef9-b54d-c9ba066bd09c" />
 
 
+
+
+
+
 **Data Model**
 
 <img width="1047" height="741" alt="Screenshot 2026-09-01 131244" src="https://github.com/user-attachments/assets/7be331e8-90c2-4bb6-b277-a73e82731756" />
+
+
 
 
 **Revenue View**
@@ -41,9 +49,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <img width="1345" height="748" alt="Revenue View" src="https://github.com/user-attachments/assets/fce8bc2b-8663-4d2d-b441-cc50665cf69e" />
 
 
+
+
 **Executive View**
 
 <img width="1320" height="747" alt="Executive View" src="https://github.com/user-attachments/assets/42bf42df-f207-49a6-b695-bf83d6c7e1a7" />
+
+
+
 
 
 **Performance View**
